@@ -1,0 +1,10 @@
+*.txt
+*~
+*.pyc
+*.pickle
+*.pkl
+testjikken/old/
+testjikken/idf/
+testjikken/__pycache__/
+aozorascraper/files/
+/aozorascraper/list_person_all_utf8.csv
